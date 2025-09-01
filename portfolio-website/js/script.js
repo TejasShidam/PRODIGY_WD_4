@@ -1,4 +1,4 @@
-// Simple contact form validation
+
 const contactForm = document.querySelector('.contact-form');
 if (contactForm) {
     contactForm.addEventListener('submit', function(e) {
